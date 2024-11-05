@@ -1,0 +1,31 @@
+sky:
+  redis:
+    host: localhost
+    port: 6379
+    password: 
+    database: 1
+
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    host: localhost
+    port: 3306
+    database: 
+    username: root
+    password: 
+
+  alioss:
+    endpoint: 
+    access-key-id: 
+    access-key-secret: 
+    bucket-name: 
+
+  wechat:
+    appid: 
+    secret: 
+    mchid : 
+    mchSerialNo:
+    privateKeyFilePath: 
+    apiV3Key: 
+    weChatPayCertFilePath: 
+    notifyUrl: 
+    refundNotifyUrl: 
